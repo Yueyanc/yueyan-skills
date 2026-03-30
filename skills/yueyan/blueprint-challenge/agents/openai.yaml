@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blueprint Challenge"
+  short_description: "Challenge MVP blueprints before build"
+  default_prompt: "Use $blueprint-challenge to review this MVP blueprint before engineering starts."
