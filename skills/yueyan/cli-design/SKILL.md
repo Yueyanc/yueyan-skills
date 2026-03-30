@@ -1,5 +1,5 @@
 ---
-name: cli-engineering
+name: cli-design
 description: CLI design, implementation, review, and refactoring standards for human-friendly and automation-safe command-line tools. Use when creating a new CLI, improving an existing CLI's UX, auditing command behavior, writing command specs, or reviewing flags/output/errors/completions/progress handling for terminal tools.
 ---
 
