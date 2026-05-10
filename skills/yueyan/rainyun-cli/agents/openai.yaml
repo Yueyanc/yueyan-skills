@@ -1,0 +1,4 @@
+interface:
+  display_name: "RainYun CLI"
+  short_description: "Use rainyun-cli to inspect and manage RainYun cloud resources."
+  default_prompt: "Use rainyun-cli for RainYun cloud resource checks and safe automation."
