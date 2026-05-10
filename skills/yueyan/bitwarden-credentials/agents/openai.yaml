@@ -1,0 +1,3 @@
+display_name: Bitwarden Credentials
+short_description: Retrieve missing tokens and secrets via Bitwarden CLI when available.
+default_prompt: Use Bitwarden CLI to find missing credentials before asking me to paste secrets.
