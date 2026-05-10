@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design Director"
+  short_description: "Blend frontend-skill and Impeccable"
+  default_prompt: "Use $ui-design-director to plan, build, audit, and polish this UI with frontend-skill and Impeccable."
