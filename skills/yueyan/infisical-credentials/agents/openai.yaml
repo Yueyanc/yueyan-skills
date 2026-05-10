@@ -1,0 +1,4 @@
+interface:
+  display_name: "Infisical Credentials"
+  short_description: "Retrieve missing credentials from Infisical without exposing secrets."
+  default_prompt: "Use $infisical-credentials to retrieve required credentials from Infisical before asking me to paste secrets."
